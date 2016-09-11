@@ -1,0 +1,15 @@
+reset                1    28
+rx                   2    27
+tx                   3    26 
+ENABLE               4    25 
+DIRECTION            5    24
+STEPPER              6    23 
+VCC                  7    22 GND
+GND                  8    21 5V
+xtal                 9    20 VCC
+xtal                10    19 SCK
+LeftEnd             11    18 MISO
+RightEnd            12    17 MOSI
+1 Wire Dallas       13    16 SS
+DHT                 14    15 OpenCase Switch
+
