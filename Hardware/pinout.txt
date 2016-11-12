@@ -1,9 +1,9 @@
 reset                1    28
 rx                   2    27
-tx                   3    26 
-ENABLE               4    25 
-DIRECTION            5    24
-STEPPER              6    23 
+tx                   3    26 LightSensor
+ENABLE               4    25 PH
+DIRECTION            5    24 Redox
+STEPPER              6    23 CO2
 VCC                  7    22 GND
 GND                  8    21 5V
 xtal                 9    20 VCC
